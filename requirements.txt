@@ -1,4 +1,4 @@
-certifi==2023.7.22
+certifi==2023.11.17
 freetype-py==2.4.0
 gpxpy==1.6.1
 ipython==8.19.0
